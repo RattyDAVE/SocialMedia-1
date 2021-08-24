@@ -1,0 +1,6 @@
+pip3 install Flask Flask-SQLAlchemy Flask-Session flask-response flask-requests Flask-JSON Flask-Login Flask-LoginManager flask-marshmallow Flask-Bootstrap Flask-Migrate Flask-API
+
+
+
+pip3 install requests marshmallow marshmallow-sqlalchemy alembic jsonify jsonschema Jinja2 config urllib3 Pillow Werkzeug
+request
